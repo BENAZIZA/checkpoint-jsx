@@ -1,0 +1,16 @@
+.title
+{
+	font-size: 30px;
+		text-shadow: 0 0 20px red;
+
+}
+.red
+{
+	color: red;
+}
+.styleImage
+{
+
+	width: 100px;
+	height:20vh;
+}
